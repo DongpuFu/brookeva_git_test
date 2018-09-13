@@ -8,3 +8,6 @@ CMSE 201, 491
 Aditya Savanur
 savanura@msu.edu
 
+Samantha Hendrixon
+Hendr209@msu.edu
+
